@@ -1,7 +1,7 @@
 {
   "name": "bogdanwdk/steam",
   "description": "A steam-api client for Laravel 9+",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "license": "MIT",
   "authors": [
     {
